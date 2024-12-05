@@ -1,0 +1,6 @@
+day_trading:
+  name: Day Trading
+  definition: Traders have average duration of each positions from 1 hour to 2 hours
+scalping:
+  name: Scalping
+  definition: Traders have average duration of each positions less than 1 hour
